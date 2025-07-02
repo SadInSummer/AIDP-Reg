@@ -1,4 +1,4 @@
-# DGCM-Reg
+# AIDP-Reg
 This is code of "Learning Cross-modal Medical Image Registration via Anatomy-aware Interaction and Dual-granularity Deformation Perception"
 
 
