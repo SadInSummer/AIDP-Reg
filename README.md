@@ -3,6 +3,9 @@ This is code of "Learning Cross-modal Medical Image Registration via Anatomy-awa
 
 
 
+The code will be publicly avaliable after the peer review.
+
+
 ![image](https://github.com/user-attachments/assets/60d40c4b-f4ac-401a-8cc5-3df3c7403267)
 
 
